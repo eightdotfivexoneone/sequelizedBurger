@@ -1,0 +1,14 @@
+body {
+	font-family: 'Press Start 2P', cursive;
+	background: linear-gradient(to bottom, #ffff00 0%, #ff0000 100%);
+	margin-top: 20px;
+}
+
+img {
+	width: 200px;
+	height: auto;
+}
+
+ul {
+  list-style-type: none;
+}
